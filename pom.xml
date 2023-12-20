@@ -57,6 +57,11 @@
 		    <version>5.5.7.Final</version> <!-- Reemplaza con la versión específica de Hibernate que estás utilizando -->
 		</dependency>
 
+		<dependency>
+			<groupId>test</groupId>
+			<artifactId>previo</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 
 	<build>
