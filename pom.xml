@@ -50,6 +50,13 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<!-- Ejemplo de dependencia Hibernate -->
+		<dependency>
+		    <groupId>org.hibernate</groupId>
+		    <artifactId>hibernate-core</artifactId>
+		    <version>5.5.7.Final</version> <!-- Reemplaza con la versión específica de Hibernate que estás utilizando -->
+		</dependency>
+
 	</dependencies>
 
 	<build>
